@@ -41,5 +41,9 @@ sudo docker-compose up -d
 ```
 sudo docker-compose ps
 ```
+![image](https://github.com/Pavan-1997/Docker_Compose_WordPress/assets/32020205/0570c5b6-f6a6-4957-8191-14c500a0a55e)
+
 
 7. Access the app on Public IP using port 80 
+
+![image](https://github.com/Pavan-1997/Docker_Compose_WordPress/assets/32020205/05a4acc0-0b44-49ed-9040-7327e36d75ee)
