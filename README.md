@@ -1,2 +1,2 @@
-# Docker Compose to deplyo a WordPress appication
+# Docker Compose to deploy a WordPress application
 
