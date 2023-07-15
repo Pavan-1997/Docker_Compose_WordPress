@@ -1,6 +1,6 @@
 # Docker Compose to deploy a WordPress application
 
-1. Create a EC2 Ubuntu instance and open the below ports 
+1. Create an EC2 Ubuntu instance and open the port 80 and 3306 
 
 
 2. Install docker by using the below commands
